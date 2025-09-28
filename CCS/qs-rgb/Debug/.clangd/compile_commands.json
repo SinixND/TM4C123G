@@ -1,0 +1,42 @@
+[
+   {
+      "directory" : "/home/arch/coding/TM4C123G/CCS/qs-rgb/Debug",
+      "command"   : "clang++ -I\"/home/arch/coding/TM4C123G/CCS/qs-rgb\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295/examples/boards/ek-tm4c123gxl\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295\" -I\"/opt/ccstudio/ccs/tools/compiler/ti-cgt-tms470-18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -DUART_BUFFERED -xc",
+      "file"      : "/opt/ccstudio/TivaWare_C_Series-2.2.0.295/examples/boards/ek-tm4c123gxl/drivers/buttons.c"
+   },
+   {
+      "directory" : "/home/arch/coding/TM4C123G/CCS/qs-rgb/Debug",
+      "command"   : "clang++ -I\"/home/arch/coding/TM4C123G/CCS/qs-rgb\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295/examples/boards/ek-tm4c123gxl\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295\" -I\"/opt/ccstudio/ccs/tools/compiler/ti-cgt-tms470-18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -DUART_BUFFERED -xc",
+      "file"      : "/opt/ccstudio/TivaWare_C_Series-2.2.0.295/examples/boards/ek-tm4c123gxl/drivers/rgb.c"
+   },
+   {
+      "directory" : "/home/arch/coding/TM4C123G/CCS/qs-rgb/Debug",
+      "command"   : "clang++ -I\"/home/arch/coding/TM4C123G/CCS/qs-rgb\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295/examples/boards/ek-tm4c123gxl\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295\" -I\"/opt/ccstudio/ccs/tools/compiler/ti-cgt-tms470-18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -DUART_BUFFERED -xc",
+      "file"      : "/home/arch/coding/TM4C123G/CCS/qs-rgb/qs-rgb.c"
+   },
+   {
+      "directory" : "/home/arch/coding/TM4C123G/CCS/qs-rgb/Debug",
+      "command"   : "clang++ -I\"/home/arch/coding/TM4C123G/CCS/qs-rgb\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295/examples/boards/ek-tm4c123gxl\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295\" -I\"/opt/ccstudio/ccs/tools/compiler/ti-cgt-tms470-18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -DUART_BUFFERED -xc",
+      "file"      : "/home/arch/coding/TM4C123G/CCS/qs-rgb/rgb_commands.c"
+   },
+   {
+      "directory" : "/home/arch/coding/TM4C123G/CCS/qs-rgb/Debug",
+      "command"   : "clang++ -I\"/home/arch/coding/TM4C123G/CCS/qs-rgb\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295/examples/boards/ek-tm4c123gxl\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295\" -I\"/opt/ccstudio/ccs/tools/compiler/ti-cgt-tms470-18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -DUART_BUFFERED -xc",
+      "file"      : "/home/arch/coding/TM4C123G/CCS/qs-rgb/startup_ccs.c"
+   },
+   {
+      "directory" : "/home/arch/coding/TM4C123G/CCS/qs-rgb/Debug",
+      "command"   : "clang++ -I\"/home/arch/coding/TM4C123G/CCS/qs-rgb\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295/examples/boards/ek-tm4c123gxl\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295\" -I\"/opt/ccstudio/ccs/tools/compiler/ti-cgt-tms470-18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -DUART_BUFFERED -xc",
+      "file"      : "/opt/ccstudio/TivaWare_C_Series-2.2.0.295/utils/cmdline.c"
+   },
+   {
+      "directory" : "/home/arch/coding/TM4C123G/CCS/qs-rgb/Debug",
+      "command"   : "clang++ -I\"/home/arch/coding/TM4C123G/CCS/qs-rgb\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295/examples/boards/ek-tm4c123gxl\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295\" -I\"/opt/ccstudio/ccs/tools/compiler/ti-cgt-tms470-18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -DUART_BUFFERED -xc",
+      "file"      : "/opt/ccstudio/TivaWare_C_Series-2.2.0.295/utils/uartstdio.c"
+   },
+   {
+      "directory" : "/home/arch/coding/TM4C123G/CCS/qs-rgb/Debug",
+      "command"   : "clang++ -I\"/home/arch/coding/TM4C123G/CCS/qs-rgb\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295/examples/boards/ek-tm4c123gxl\" -I\"/opt/ccstudio/TivaWare_C_Series-2.2.0.295\" -I\"/opt/ccstudio/ccs/tools/compiler/ti-cgt-tms470-18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -DUART_BUFFERED -xc",
+      "file"      : "/opt/ccstudio/TivaWare_C_Series-2.2.0.295/utils/ustdlib.c"
+   }
+]

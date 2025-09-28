@@ -1,0 +1,12 @@
+"./qs-rgb.obj"
+"./rgb_commands.obj"
+"./startup_ccs.obj"
+"./drivers/buttons.obj"
+"./drivers/rgb.obj"
+"./utils/cmdline.obj"
+"./utils/uartstdio.obj"
+"./utils/ustdlib.obj"
+"../qs-rgb_ccs.cmd"
+-l"/opt/ccstudio/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib"
+-l"/opt/ccstudio/TivaWare_C_Series-2.2.0.295/usblib/ccs/Debug/usblib.lib"
+-llibc.a

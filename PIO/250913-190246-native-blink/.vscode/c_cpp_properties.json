@@ -1,0 +1,113 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/arch/coding/TM4C123G/PIO/250913-190246-native-blink/include",
+                "/home/arch/coding/TM4C123G/PIO/250913-190246-native-blink/src",
+                "/home/arch/.platformio/packages/framework-energiativa/system",
+                "/home/arch/.platformio/packages/framework-energiativa/system/inc",
+                "/home/arch/.platformio/packages/framework-energiativa/system/driverlib",
+                "/home/arch/.platformio/packages/framework-energiativa/cores/tivac",
+                "/home/arch/.platformio/packages/framework-energiativa/variants/EK-TM4C123GXL",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/AIR430BoostEuropeETSI",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/AIR430BoostEuropeETSI/utility",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/AIR430BoostUSAFCC",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/AIR430BoostUSAFCC/utility",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/Adafruit_TMP006",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/Adafruit_TMP007",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/CogLCD",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/EEPROM",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/EduBPMKII_Screen",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/Ethernet",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/Ethernet/utility",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/LCD_SharpBoosterPack_SPI",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/M2XStreamClient",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/MQTTClient",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/OPT3001",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/OneMsTaskTimer",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/OneWire",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/PubNub",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/PubSubClient",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/SPI",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/Servo",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/Temboo",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/Temboo/utility",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/WiFi",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/WiFi/utility",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/Wire",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/aJson",
+                "/home/arch/.platformio/packages/framework-energiativa/libraries/aJson/utility",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/arch/coding/TM4C123G/PIO/250913-190246-native-blink/include",
+                    "/home/arch/coding/TM4C123G/PIO/250913-190246-native-blink/src",
+                    "/home/arch/.platformio/packages/framework-energiativa/system",
+                    "/home/arch/.platformio/packages/framework-energiativa/system/inc",
+                    "/home/arch/.platformio/packages/framework-energiativa/system/driverlib",
+                    "/home/arch/.platformio/packages/framework-energiativa/cores/tivac",
+                    "/home/arch/.platformio/packages/framework-energiativa/variants/EK-TM4C123GXL",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/AIR430BoostEuropeETSI",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/AIR430BoostEuropeETSI/utility",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/AIR430BoostUSAFCC",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/AIR430BoostUSAFCC/utility",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/Adafruit_TMP006",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/Adafruit_TMP007",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/CogLCD",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/EEPROM",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/EduBPMKII_Screen",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/Ethernet",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/Ethernet/utility",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/LCD_SharpBoosterPack_SPI",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/M2XStreamClient",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/MQTTClient",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/OPT3001",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/OneMsTaskTimer",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/OneWire",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/PubNub",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/PubSubClient",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/SPI",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/Servo",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/Temboo",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/Temboo/utility",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/WiFi",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/WiFi/utility",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/Wire",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/aJson",
+                    "/home/arch/.platformio/packages/framework-energiativa/libraries/aJson/utility",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=80000000L",
+                "PLATFORMIO=60118",
+                "ENERGIA_ARCH_TIVAC",
+                "ENERGIA_EK_TM4C123GXL",
+                "ARDUINO=10805",
+                "ENERGIA=10002",
+                "printf=iprintf",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "/home/arch/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m4",
+                "-mabi=aapcs",
+                "-mfloat-abi=hard",
+                "-mfpu=fpv4-sp-d16",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
